@@ -4,7 +4,7 @@ MAD9124 Final Project
 
 The final project will be a two part joint assignment between MAD9124 and MAD9022. You will build a complete full-stack solution. The web service API portion will be graded for MAD9124, and the front-end application functionality, design, and usability will be graded for MAD9022.
 
-**See the [MAD9124-W20 course book](https://mad9124-w20.github.io/deliverables/final.html) for full requirements.**
+**See the [MAD9124-W21 course book](https://mad9124.github.io/W2021/deliverables/final.html) for full requirements.**
 
 ## Logistics
 

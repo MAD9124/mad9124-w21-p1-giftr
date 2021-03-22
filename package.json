@@ -1,8 +1,8 @@
 {
-  "name": "mad9124-final-starter",
-  "version": "1.0.0",
+  "name": "mad9124-w21-p1-giftr",
+  "version": "0.1.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
